@@ -8,7 +8,7 @@
 ## 📌 Deskripsi
 Tugas ini adalah membuat sebuah fungsi **Python** yang menerima input berupa **array satu dimensi berisi dictionary**, lalu memformat ulang data tersebut menjadi **nested array dengan tiga level**.  
 
-Fungsi hanya dapat dipanggil menggunakan **POST request** melalui endpoint API.
+Implementasi tugas ini dibuat menggunakan **Flask** untuk membangun REST API, sehingga fungsi hanya bisa dipanggil melalui **POST request**.
 
 ---
 
